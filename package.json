@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"id": "zalo",
 	"config": {
-		"serviceURL": "http://web.zaloapp.com/login",
+		"serviceURL": "https://chat.zalo.me/",
 		"hasNotificationSound": true,
 		"message": "The new market-leading messaging app with amazing features."
 	}
